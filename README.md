@@ -8,7 +8,6 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering involves writing code or set of instruction for computers by building apps, websites and games for making our lives easier through solving real-world problems by use of technology.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
- 
   1.Development of programming languages like Fortran and C 
   
   2.Establishment of software engineering as a discipline in the 1960s.
@@ -19,7 +18,6 @@ Identify and describe at least three key milestones in the evolution of software
   
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
   1.Requirements-idebtifying and documenting user needs and system requirements.
   
   2.Design-creating high-level and detailed designs of the software architecture and user interface.
@@ -55,8 +53,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
   1. Unit Testing: Testing individual components or modules of software.
   2. Integration Testing: Testing interactions between different components or subsystems.
   3. System Testing: Testing the entire software system as a whole.
-  4. Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
-     
+  4. Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.   
 Importance of Quality Control: Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -66,7 +63,6 @@ Define prompt engineering and discuss its importance in interacting with AI mode
   -Prompt emgineering is the process of crafting questions or statements to get the best responses from AI models.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-
   -An example of a vaque prompt is "tell me about cars"
   
   -For a better response and make clear " tell me about V8 engines and twin turbo charged cars" - the improved prompt is more specific thus a well clarified and detailed explanation will be provided 
